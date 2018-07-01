@@ -1,0 +1,75 @@
+[submodule "terraform-provider-aws"]
+	path = terraform-provider-aws
+	url = https://github.com/terraform-providers/terraform-provider-aws.git
+[submodule "terraform-provider-kubernetes"]
+	path = terraform-provider-kubernetes
+	url = https://github.com/terraform-providers/terraform-provider-kubernetes.git
+[submodule "terraform-provider-random"]
+	path = terraform-provider-random
+	url = https://github.com/terraform-providers/terraform-provider-random.git
+[submodule "terraform-provider-github"]
+	path = terraform-provider-github
+	url = https://github.com/terraform-providers/terraform-provider-github.git
+[submodule "terraform-provider-gitlab"]
+	path = terraform-provider-gitlab
+	url = https://github.com/terraform-providers/terraform-provider-gitlab.git
+[submodule "terraform-provider-newrelic"]
+	path = terraform-provider-newrelic
+	url = https://github.com/terraform-providers/terraform-provider-newrelic.git
+[submodule "terragrunt"]
+	path = terragrunt
+	url = https://github.com/gruntwork-io/terragrunt.git
+[submodule "terragrunt-toc"]
+	path = terragrunt-toc
+	url = https://github.com/gruntwork-io/toc.git
+[submodule "terragrunt-terratest"]
+	path = terragrunt-terratest
+	url = https://github.com/gruntwork-io/terratest.git
+[submodule "dtan4.terraforming"]
+	path = dtan4.terraforming
+	url = https://github.com/dtan4/terraforming.git
+[submodule "adammck.terraform-inventory"]
+	path = adammck.terraform-inventory
+	url = https://github.com/adammck/terraform-inventory.git
+[submodule "terraform-aws-modules.terraform-aws-rds"]
+	path = terraform-aws-modules.terraform-aws-rds
+	url = https://github.com/terraform-aws-modules/terraform-aws-rds.git
+[submodule "terraform-aws-modules.terraform-aws-rds-aurora"]
+	path = terraform-aws-modules.terraform-aws-rds-aurora
+	url = https://github.com/terraform-aws-modules/terraform-aws-rds-aurora.git
+[submodule "terraform-aws-modules.terraform-aws-redshift"]
+	path = terraform-aws-modules.terraform-aws-redshift
+	url = https://github.com/terraform-aws-modules/terraform-aws-redshift.git
+[submodule "terraform-aws-modules.terraform-aws-ec2-instance"]
+	path = terraform-aws-modules.terraform-aws-ec2-instance
+	url = https://github.com/terraform-aws-modules/terraform-aws-ec2-instance.git
+[submodule "terraform-community-modules.tf_aws_ecs_pganalyze"]
+	path = terraform-community-modules.tf_aws_ecs_pganalyze
+	url = https://github.com/terraform-community-modules/tf_aws_ecs_pganalyze.git
+[submodule "terraformtoolchain.aws_remote_state_mod"]
+	path = terraformtoolchain.aws_remote_state_mod
+	url = https://github.com/terraformtoolchain/aws_remote_state_mod.git
+[submodule "terraformtoolchain.aws_r53_mod"]
+	path = terraformtoolchain.aws_r53_mod
+	url = https://github.com/terraformtoolchain/aws_r53_mod.git
+[submodule "terraform-library.aws-alb"]
+	path = terraform-library.aws-alb
+	url = https://github.com/terraform-library/aws-alb.git
+[submodule "TerraformDesignPattern.Infrastructure"]
+	path = TerraformDesignPattern.Infrastructure
+	url = https://github.com/terraformDesignPattern/Infrastructure.git
+[submodule "TerraformDesignPattern.BastionHost"]
+	path = TerraformDesignPattern.BastionHost
+	url = https://github.com/terraformDesignPattern/BastionHost.git
+[submodule "TerraformDesignPattern.Packer"]
+	path = TerraformDesignPattern.Packer
+	url = https://github.com/terraformDesignPattern/Packer.git
+[submodule "turnbullpress.pre-commit-terraform"]
+	path = turnbullpress.pre-commit-terraform
+	url = https://github.com/turnbullpress/pre-commit-terraform.git
+[submodule "turnbullpress.tf_consul"]
+	path = turnbullpress.tf_consul
+	url = https://github.com/turnbullpress/tf_consul.git
+[submodule "turnbullpress.tf_remote_state"]
+	path = turnbullpress.tf_remote_state
+	url = https://github.com/turnbullpress/tf_remote_state.git
